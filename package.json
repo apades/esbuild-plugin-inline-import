@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/claviska/esbuild-plugin-inline-import/issues"
   },
-  "homepage": "https://github.com/claviska/esbuild-plugin-inline-import#readme"
+  "homepage": "https://github.com/claviska/esbuild-plugin-inline-import#readme",
+  "devDependencies": {
+    "esbuild": "^0.23.0"
+  }
 }
